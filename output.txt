@@ -1,0 +1,3 @@
+Chose your name: Samir
+Chose your Class: Mage
+You have hit the orc for 113 HP
